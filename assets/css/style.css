@@ -183,10 +183,6 @@ nav {
     font-size: 1.1rem;
 }
 
-
-
-
-
 /* Qualification Section */
 .qualification {
     padding: 6rem 5%;
@@ -314,6 +310,7 @@ nav {
 .contact-info i {
     margin-right: 1rem;
     color: var(--primary-color);
+    color: black;
 }
 
 .social-links {
@@ -331,11 +328,13 @@ nav {
 
 .social-links a:hover {
     color: var(--primary-color);
+    color: red;
 }
 
 .social-links i {
     font-size: 1.2rem;
     width: 30px;
+    color: black;
 }
 
 .contact-form {
